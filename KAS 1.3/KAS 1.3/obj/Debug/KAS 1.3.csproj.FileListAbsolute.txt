@@ -1,0 +1,34 @@
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\bin\Debug\KAS 1.3.exe.config
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS 1.3.csprojResolveAssemblyReference.cache
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\Interop.Office.dll
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\Interop.VBIDE.dll
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS 1.3.csproj.ResolveComReference.cache
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS_1._3.Properties.Resources.resources
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS 1.3.csproj.GenerateResource.Cache
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS_1._3.Form1.resources
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\bin\Debug\KAS 1.3.exe
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\bin\Debug\KAS 1.3.pdb
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS 1.3.exe
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS 1.3.pdb
+D:\Dropbox\KAS\KAS 1.3\KAS 1.3\bin\Debug\KAS 1.3.exe.config
+D:\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\Interop.VBIDE.dll
+D:\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS 1.3.csproj.ResolveComReference.cache
+D:\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS 1.3.exe
+D:\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS 1.3.pdb
+D:\Dropbox\KAS\KAS 1.3\KAS 1.3\bin\Debug\KAS 1.3.exe
+D:\Dropbox\KAS\KAS 1.3\KAS 1.3\bin\Debug\KAS 1.3.pdb
+D:\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS 1.3.csprojResolveAssemblyReference.cache
+D:\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS_1._3.Form1.resources
+D:\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS_1._3.Properties.Resources.resources
+D:\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS 1.3.csproj.GenerateResource.Cache
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\bin\Debug\KAS_DB_1_3DataSet.Designer.cs
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\bin\Debug\KAS_DB_1_3DataSet.xsc
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\bin\Debug\KAS_DB_1_3DataSet.xsd
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\bin\Debug\KAS_DB_1_3DataSet.xss
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\bin\Debug\KAS 1.3.exe.manifest
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\bin\Debug\KAS 1.3.application
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS 1.3.exe.manifest
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS 1.3.application
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\bin\Debug\standart.docx
+C:\Users\Николай\Dropbox\KAS\KAS 1.3\KAS 1.3\obj\Debug\KAS 1.3.csproj.CoreCompileInputs.cache
